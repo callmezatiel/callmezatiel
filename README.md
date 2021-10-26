@@ -17,7 +17,7 @@ web developer, I love the linux terminal, because it, I develop cli applications
 - Arch Linux (linux operative system)
 
 ### Stats
-[![Zatiel's stats](https://github-readme-stats.vercel.app/api?username=callmezatiel&show_icons=true&theme=dracula)](https://github.com/callmezatiel/github-readme-stats)
+[![Zatiel's stats](https://github-readme-stats.vercel.app/api?username=callmezatiel&show_icons=true&theme=react)](https://github.com/callmezatiel/github-readme-stats)
 
 ### Most used languages
 ![Zatiel's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmezatiel&theme=react&layout=compact&hide=HTML)
