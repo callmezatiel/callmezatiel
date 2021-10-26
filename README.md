@@ -10,7 +10,7 @@ web developer, I love the linux terminal, because it, I develop cli applications
 
 ### Support me
 
-<a href="https://www.paypal.com/paypalme/zatiel"><img src="https://i.postimg.cc/8PgmB7gB/sponsor.png" height="35%" width="35%"></a>
+<a href="https://www.paypal.com/paypalme/zatiel"><img src="https://i.postimg.cc/SKkPZZ0d/sponsor-zatiel.png" height="50%" width="50%"></a>
 
 ### My preferred tecnologies are:
 
