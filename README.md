@@ -14,7 +14,7 @@ web developer, I love the linux terminal, because it, I develop cli applications
 
 ### My preferred tecnologies are:
 
-- Javascript (Node.js, Deno)
+- Javascript (Node.js)
 
 ### I am interested in:
 
