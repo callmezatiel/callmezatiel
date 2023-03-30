@@ -4,7 +4,7 @@
 <a href="#"><img src="https://i.postimg.cc/Ghssyc4b/3090ti.png" height="100%" width="100%" /></a>
 </p>
 
-Hello, My name is Zatiel, 29 years with 5 years of experience.
+Hello, My name is Zatiel, 30 years with 5 years of experience.
 I love linux, but I am interested in Arch Linux, I'm a
 web developer, I love the linux terminal, because it, I develop cli applications for linux
 
@@ -15,7 +15,7 @@ web developer, I love the linux terminal, because it, I develop cli applications
 
 ### I am interested in:
 
-- Arch Linux (linux operative system)
+- Fedora Linux (linux operative system)
 
 ### Stats
 [![Zatiel's stats](https://github-readme-stats.vercel.app/api?username=callmezatiel&show_icons=true&theme=react)](https://github.com/callmezatiel/github-readme-stats)
